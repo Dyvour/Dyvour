@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dyvour&label=Profile%20views&color=0e75b6&style=flat" alt="m3xicang0d" /> </p>
 
-<!--
-**Dyvour/Dyvour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently experienced in Java, Kotlin.
+- 🔭 I’m an Owner at [Mexican Development](https://github.com/MexicanDevelopment)
+- 📫 You can contact me on Discord by adding JesusMX#2122 or contacting me on [Twitter](https://twitter.com/GEZT27)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I mostly do private work so don't expect to see much public commits from me*
+
+### My GitHub Statistics
+<details>
+   <summary>Click to show</summary>
+   <img align="Left" alt="Dyvour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dyvour&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyvour&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+</details>
