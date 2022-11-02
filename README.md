@@ -1,16 +1,29 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dyvour&label=Profile%20views&color=0e75b6&style=flat" alt="m3xicang0d" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dyvour&label=Profile%20views&color=0e75b6&style=flat" alt="dyvour_" /> </p>
 
-### Hello! 👋
+# Hello 👋 
 
-- 🌱 I’m currently experienced in Java, Kotlin.
-- 🔭 I’m an Owner at [Mexican Services](https://github.com/MexicanDevelopment)
-- 📫 You can contact me on Discord by adding JesusMX#2122 or contacting me on [Twitter](https://twitter.com/GEZT27)!
+### About me 🚀
+###### Who I am?
+> * My name is Martin, Im 15 years old and at present i'm working from Spain, Im a Software Engineering **student** and aerospace and technology enthusiast.
+###### What am I learning?
+> * As I mentioned before im currently studying different programming languages how can they be python, html/ccs, js, java etc... Also im studying pentesting, cybersecurity in general and AI stuff. *(I am* ***currently*** *learning everything as a*  **freelancer** *)*.
+###### What am I working on?
+> * I am currently working on my own rocket model company **[StarlabRPL](https://starlabrpl.tk/)**. **WEB ACTUALLY UNDER DEVELOPMENT**
+> * Also im working on lego robotics project **[Lego Fist Lego Leage](https://www.firstlegoleague.org/)** with **[Elburgo Tecno Club](http://www.tecnoclub.es/)** team.
 
-*I mostly do private work so don't expect to see much public commits from me*
+### Contact📲
+###### Website
+> * All of my socials are resume in my [website](https://l0wgod.xyz/). 
+###### Anyway here they are :
+* ⬜️Mail: **Lowgod_@hotmail.com**
+* 🟧[GitLab](https://gitlab.com/lowg0d)
+<a href="https://starlabrpl.tk" target="_BLANK">
+  <img src="https://discord.c99.nl/widget/theme-1/814476198733152266.png">
+</a>
 
-### My GitHub Statistics
-<details>
-   <summary>Click to show</summary>
-   <img align="Left" alt="Dyvour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dyvour&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
-   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyvour&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
-</details>
+
+# GitHub Stats 📊
+![](https://komarev.com/ghpvc/?username=lowg0d&color=blue)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lowg0d&count_private=true&show_icons=true&show_owner=true&border_color=fffff&bg_color=0a0c10"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowg0d&show_icons&theme=radical&show_owner=true&border_color=fffff&bg_color=0a0c10&theme=synthwave">
+
